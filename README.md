@@ -1,7 +1,5 @@
 # TechTitans_ChatWithAnyScientificPaper
 
-Got it! Here's the revised README to reflect the flow you've described:
-
 # Ask Your Text File 💬
 
 ## What is it?
